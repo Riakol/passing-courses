@@ -5,3 +5,5 @@
 # [8.5 Методы множеств. Часть 1](https://stepik.org/lesson/445791/step/11?unit=436052)
 
 # [8.6 Методы множеств. Часть 2](https://stepik.org/lesson/482377/step/13?unit=473680)
+
+# [8.7 Методы множеств. Часть 3](https://stepik.org/lesson/483114/step/8?unit=474427)
