@@ -7,3 +7,5 @@
 # [8.6 Методы множеств. Часть 2](https://stepik.org/lesson/482377/step/13?unit=473680)
 
 # [8.7 Методы множеств. Часть 3](https://stepik.org/lesson/483114/step/8?unit=474427)
+
+# [8.8 Генераторы множеств и frozenset](https://stepik.org/lesson/445793/step/3?unit=436054)
