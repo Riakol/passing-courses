@@ -11,3 +11,5 @@
 # [8.8 Генераторы множеств и frozenset](https://stepik.org/lesson/445793/step/3?unit=436054)
 
 # [9.1 Экзамен](https://stepik.org/lesson/479453/step/15?unit=470428)
+
+# [9.2 Экзамен](https://stepik.org/lesson/445985/step/2?unit=470426)
