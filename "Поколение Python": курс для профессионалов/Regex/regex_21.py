@@ -1,0 +1,1 @@
+regex = r'^[MDE]r\.[A-Za-z]{1,}$|Mrs\.[A-Za-z]{1,}$|Ms\.[A-Za-z]{1,}$'
